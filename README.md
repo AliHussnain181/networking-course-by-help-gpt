@@ -1,7 +1,4 @@
-Here’s a prompt you can use to create a **complete course on computer networking**:
-
 ---
-
 ### **Course Title**: Comprehensive Networking Mastery: From Basics to Advanced Concepts
 
 #### **Course Overview**:
